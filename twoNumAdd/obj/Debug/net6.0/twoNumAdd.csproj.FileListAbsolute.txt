@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\twoNumAdd\bin\Debug\net6.0\twoNumAdd.exe
+F:\universityLearn\algorithmLearn\twoNumAdd\bin\Debug\net6.0\twoNumAdd.deps.json
+F:\universityLearn\algorithmLearn\twoNumAdd\bin\Debug\net6.0\twoNumAdd.runtimeconfig.json
+F:\universityLearn\algorithmLearn\twoNumAdd\bin\Debug\net6.0\twoNumAdd.dll
+F:\universityLearn\algorithmLearn\twoNumAdd\bin\Debug\net6.0\twoNumAdd.pdb
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\twoNumAdd.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\twoNumAdd.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\twoNumAdd.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\twoNumAdd.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\twoNumAdd.dll
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\refint\twoNumAdd.dll
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\twoNumAdd.pdb
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\twoNumAdd.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\twoNumAdd\obj\Debug\net6.0\ref\twoNumAdd.dll
