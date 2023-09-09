@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\sumofTwoNum\bin\Debug\net6.0\sumofTwoNum.exe
+F:\universityLearn\algorithmLearn\sumofTwoNum\bin\Debug\net6.0\sumofTwoNum.deps.json
+F:\universityLearn\algorithmLearn\sumofTwoNum\bin\Debug\net6.0\sumofTwoNum.runtimeconfig.json
+F:\universityLearn\algorithmLearn\sumofTwoNum\bin\Debug\net6.0\sumofTwoNum.dll
+F:\universityLearn\algorithmLearn\sumofTwoNum\bin\Debug\net6.0\sumofTwoNum.pdb
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\sumofTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\sumofTwoNum.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\sumofTwoNum.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\sumofTwoNum.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\sumofTwoNum.dll
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\refint\sumofTwoNum.dll
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\sumofTwoNum.pdb
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\sumofTwoNum.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\sumofTwoNum\obj\Debug\net6.0\ref\sumofTwoNum.dll

@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\bin\Debug\net6.0\maxChildArray.exe
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\bin\Debug\net6.0\maxChildArray.deps.json
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\bin\Debug\net6.0\maxChildArray.runtimeconfig.json
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\bin\Debug\net6.0\maxChildArray.dll
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\bin\Debug\net6.0\maxChildArray.pdb
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\maxChildArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\maxChildArray.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\maxChildArray.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\maxChildArray.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\maxChildArray.dll
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\refint\maxChildArray.dll
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\maxChildArray.pdb
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\maxChildArray.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\maxChildArray\maxChildArray\obj\Debug\net6.0\ref\maxChildArray.dll

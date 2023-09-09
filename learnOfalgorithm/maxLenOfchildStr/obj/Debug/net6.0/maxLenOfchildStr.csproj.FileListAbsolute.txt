@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\bin\Debug\net6.0\maxLenOfchildStr.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\bin\Debug\net6.0\maxLenOfchildStr.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\bin\Debug\net6.0\maxLenOfchildStr.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\bin\Debug\net6.0\maxLenOfchildStr.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\bin\Debug\net6.0\maxLenOfchildStr.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\maxLenOfchildStr.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\maxLenOfchildStr.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\maxLenOfchildStr.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\maxLenOfchildStr.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\maxLenOfchildStr.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\refint\maxLenOfchildStr.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\maxLenOfchildStr.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\maxLenOfchildStr.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\maxLenOfchildStr\obj\Debug\net6.0\ref\maxLenOfchildStr.dll
