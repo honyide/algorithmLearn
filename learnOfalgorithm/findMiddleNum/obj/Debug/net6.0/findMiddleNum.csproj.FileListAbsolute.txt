@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\bin\Debug\net6.0\findMiddleNum.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\bin\Debug\net6.0\findMiddleNum.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\bin\Debug\net6.0\findMiddleNum.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\bin\Debug\net6.0\findMiddleNum.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\bin\Debug\net6.0\findMiddleNum.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\findMiddleNum.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\findMiddleNum.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\findMiddleNum.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\findMiddleNum.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\findMiddleNum.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\refint\findMiddleNum.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\findMiddleNum.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\findMiddleNum.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\findMiddleNum\obj\Debug\net6.0\ref\findMiddleNum.dll
