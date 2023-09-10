@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\bin\Debug\net6.0\Palindrome Childstring.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\bin\Debug\net6.0\Palindrome Childstring.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\bin\Debug\net6.0\Palindrome Childstring.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\bin\Debug\net6.0\Palindrome Childstring.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\bin\Debug\net6.0\Palindrome Childstring.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\Palindrome Childstring.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\Palindrome Childstring.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\Palindrome Childstring.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\Palindrome Childstring.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\Palindrome Childstring.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\refint\Palindrome Childstring.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\Palindrome Childstring.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\Palindrome Childstring.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Palindrome Childstring\obj\Debug\net6.0\ref\Palindrome Childstring.dll
