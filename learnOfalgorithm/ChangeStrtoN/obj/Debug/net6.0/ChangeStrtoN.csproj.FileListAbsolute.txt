@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\bin\Debug\net6.0\ChangeStrtoN.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\bin\Debug\net6.0\ChangeStrtoN.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\bin\Debug\net6.0\ChangeStrtoN.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\bin\Debug\net6.0\ChangeStrtoN.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\bin\Debug\net6.0\ChangeStrtoN.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\ChangeStrtoN.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\ChangeStrtoN.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\ChangeStrtoN.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\ChangeStrtoN.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\ChangeStrtoN.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\refint\ChangeStrtoN.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\ChangeStrtoN.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\ChangeStrtoN.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\ChangeStrtoN\obj\Debug\net6.0\ref\ChangeStrtoN.dll
