@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\bin\Debug\net6.0\RevertInt.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\bin\Debug\net6.0\RevertInt.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\bin\Debug\net6.0\RevertInt.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\bin\Debug\net6.0\RevertInt.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\bin\Debug\net6.0\RevertInt.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\RevertInt.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\RevertInt.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\RevertInt.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\RevertInt.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\RevertInt.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\refint\RevertInt.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\RevertInt.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\RevertInt.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RevertInt\obj\Debug\net6.0\ref\RevertInt.dll
