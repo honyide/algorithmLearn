@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\bin\Debug\net6.0\Atoi.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\bin\Debug\net6.0\Atoi.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\bin\Debug\net6.0\Atoi.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\bin\Debug\net6.0\Atoi.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\bin\Debug\net6.0\Atoi.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\Atoi.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\Atoi.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\Atoi.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\Atoi.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\Atoi.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\refint\Atoi.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\Atoi.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\Atoi.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\Atoi\obj\Debug\net6.0\ref\Atoi.dll
