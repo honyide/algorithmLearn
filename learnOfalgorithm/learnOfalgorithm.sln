@@ -13,7 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "twoNumAdd", "..\twoNumAdd\t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "findMiddleNum", "findMiddleNum\findMiddleNum.csproj", "{C5AAA2D1-BB73-4306-BC5A-8E70B73BFD60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Childstring", "Palindrome Childstring\Palindrome Childstring.csproj", "{535E57D8-32E4-433C-A9C3-64B9A066D891}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Childstring", "Palindrome Childstring\Palindrome Childstring.csproj", "{535E57D8-32E4-433C-A9C3-64B9A066D891}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChangeStrtoN", "ChangeStrtoN\ChangeStrtoN.csproj", "{03E95B65-181B-4494-8A02-AC54FA99E092}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevertInt", "RevertInt\RevertInt.csproj", "{FF255D19-8F8C-4418-832B-E372204E835E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atoi", "Atoi\Atoi.csproj", "{9F83B9AE-9316-4760-9D17-0C915447281B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{535E57D8-32E4-433C-A9C3-64B9A066D891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{535E57D8-32E4-433C-A9C3-64B9A066D891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{535E57D8-32E4-433C-A9C3-64B9A066D891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E95B65-181B-4494-8A02-AC54FA99E092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E95B65-181B-4494-8A02-AC54FA99E092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E95B65-181B-4494-8A02-AC54FA99E092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E95B65-181B-4494-8A02-AC54FA99E092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF255D19-8F8C-4418-832B-E372204E835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF255D19-8F8C-4418-832B-E372204E835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF255D19-8F8C-4418-832B-E372204E835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF255D19-8F8C-4418-832B-E372204E835E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F83B9AE-9316-4760-9D17-0C915447281B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F83B9AE-9316-4760-9D17-0C915447281B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F83B9AE-9316-4760-9D17-0C915447281B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F83B9AE-9316-4760-9D17-0C915447281B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
