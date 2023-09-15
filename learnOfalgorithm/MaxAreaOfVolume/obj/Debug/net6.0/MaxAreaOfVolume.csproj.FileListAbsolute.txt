@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\bin\Debug\net6.0\MaxAreaOfVolume.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\bin\Debug\net6.0\MaxAreaOfVolume.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\bin\Debug\net6.0\MaxAreaOfVolume.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\bin\Debug\net6.0\MaxAreaOfVolume.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\bin\Debug\net6.0\MaxAreaOfVolume.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\MaxAreaOfVolume.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\MaxAreaOfVolume.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\MaxAreaOfVolume.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\MaxAreaOfVolume.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\MaxAreaOfVolume.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\refint\MaxAreaOfVolume.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\MaxAreaOfVolume.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\MaxAreaOfVolume.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\MaxAreaOfVolume\obj\Debug\net6.0\ref\MaxAreaOfVolume.dll
