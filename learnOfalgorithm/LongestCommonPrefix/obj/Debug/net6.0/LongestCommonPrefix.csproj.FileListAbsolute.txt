@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\refint\LongestCommonPrefix.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\LongestCommonPrefix\obj\Debug\net6.0\ref\LongestCommonPrefix.dll
