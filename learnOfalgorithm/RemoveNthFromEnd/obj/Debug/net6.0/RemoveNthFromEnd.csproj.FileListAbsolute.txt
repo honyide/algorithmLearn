@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\refint\RemoveNthFromEnd.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\RemoveNthFromEnd\obj\Debug\net6.0\ref\RemoveNthFromEnd.dll
