@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\bin\Debug\net6.0\IsValid.exe
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\bin\Debug\net6.0\IsValid.deps.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\bin\Debug\net6.0\IsValid.runtimeconfig.json
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\bin\Debug\net6.0\IsValid.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\bin\Debug\net6.0\IsValid.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\IsValid.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\IsValid.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\IsValid.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\IsValid.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\IsValid.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\refint\IsValid.dll
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\IsValid.pdb
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\IsValid.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\learnOfalgorithm\IsValid\obj\Debug\net6.0\ref\IsValid.dll

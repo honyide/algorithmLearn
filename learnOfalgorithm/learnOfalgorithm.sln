@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntToRoma", "IntToRoma\IntT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{517238AF-5481-4F91-BE66-C3F24AF0A134}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthFromEnd", "RemoveNthFromEnd\RemoveNthFromEnd.csproj", "{5541861B-BFDC-496E-B566-E064045181D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNthFromEnd", "RemoveNthFromEnd\RemoveNthFromEnd.csproj", "{5541861B-BFDC-496E-B566-E064045181D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsValid", "IsValid\IsValid.csproj", "{2F8E9099-1954-4769-859E-BB0C1DCC2301}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{5541861B-BFDC-496E-B566-E064045181D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5541861B-BFDC-496E-B566-E064045181D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5541861B-BFDC-496E-B566-E064045181D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8E9099-1954-4769-859E-BB0C1DCC2301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8E9099-1954-4769-859E-BB0C1DCC2301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8E9099-1954-4769-859E-BB0C1DCC2301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8E9099-1954-4769-859E-BB0C1DCC2301}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
