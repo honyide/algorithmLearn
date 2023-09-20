@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\Print32Int\bin\Debug\net6.0\Print32Int.exe
+F:\universityLearn\algorithmLearn\Print32Int\bin\Debug\net6.0\Print32Int.deps.json
+F:\universityLearn\algorithmLearn\Print32Int\bin\Debug\net6.0\Print32Int.runtimeconfig.json
+F:\universityLearn\algorithmLearn\Print32Int\bin\Debug\net6.0\Print32Int.dll
+F:\universityLearn\algorithmLearn\Print32Int\bin\Debug\net6.0\Print32Int.pdb
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\Print32Int.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\Print32Int.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\Print32Int.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\Print32Int.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\Print32Int.dll
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\refint\Print32Int.dll
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\Print32Int.pdb
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\Print32Int.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\Print32Int\obj\Debug\net6.0\ref\Print32Int.dll
