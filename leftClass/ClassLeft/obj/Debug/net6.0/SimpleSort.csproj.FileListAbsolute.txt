@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\bin\Debug\net6.0\SimpleSort.exe
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\bin\Debug\net6.0\SimpleSort.deps.json
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\bin\Debug\net6.0\SimpleSort.runtimeconfig.json
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\bin\Debug\net6.0\SimpleSort.dll
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\bin\Debug\net6.0\SimpleSort.pdb
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\SimpleSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\SimpleSort.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\SimpleSort.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\SimpleSort.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\SimpleSort.dll
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\refint\SimpleSort.dll
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\SimpleSort.pdb
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\SimpleSort.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\leftClass\ClassLeft\obj\Debug\net6.0\ref\SimpleSort.dll
