@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\bin\Debug\net6.0\RandomAtoB.exe
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\bin\Debug\net6.0\RandomAtoB.deps.json
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\bin\Debug\net6.0\RandomAtoB.runtimeconfig.json
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\bin\Debug\net6.0\RandomAtoB.dll
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\bin\Debug\net6.0\RandomAtoB.pdb
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\RandomAtoB.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\RandomAtoB.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\RandomAtoB.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\RandomAtoB.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\RandomAtoB.dll
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\refint\RandomAtoB.dll
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\RandomAtoB.pdb
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\RandomAtoB.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\leftClass\RandomAtoB\obj\Debug\net6.0\ref\RandomAtoB.dll

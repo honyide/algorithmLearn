@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\bin\Debug\net6.0\RangeSum.exe
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\bin\Debug\net6.0\RangeSum.deps.json
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\bin\Debug\net6.0\RangeSum.runtimeconfig.json
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\bin\Debug\net6.0\RangeSum.dll
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\bin\Debug\net6.0\RangeSum.pdb
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\RangeSum.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\RangeSum.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\RangeSum.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\RangeSum.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\RangeSum.dll
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\refint\RangeSum.dll
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\RangeSum.pdb
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\RangeSum.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\leftClass\RangeSum\obj\Debug\net6.0\ref\RangeSum.dll
