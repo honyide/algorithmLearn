@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HalfSearch/1.0.0": {
+        "dependencies": {
+          "RandomMachine": "1.0.0"
+        },
+        "runtime": {
+          "HalfSearch.dll": {}
+        }
+      },
+      "RandomMachine/1.0.0": {
+        "runtime": {
+          "RandomMachine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HalfSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RandomMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

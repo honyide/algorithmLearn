@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RangeSum", "..\RangeSum\Ran
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomNum", "..\RandomNum\RandomNum.csproj", "{27AC56BE-93AC-4831-B27B-1075E4A9227F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomAtoB", "..\RandomAtoB\RandomAtoB.csproj", "{EAC4BB33-F5F8-42FC-B128-E372F3898AC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomAtoB", "..\RandomAtoB\RandomAtoB.csproj", "{EAC4BB33-F5F8-42FC-B128-E372F3898AC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomMachine", "..\RandomMachine\RandomMachine.csproj", "{2B5EC4AE-DE1D-4B2A-874D-D874707F3812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomMachine", "..\RandomMachine\RandomMachine.csproj", "{2B5EC4AE-DE1D-4B2A-874D-D874707F3812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfSearch", "..\HalfSearch\HalfSearch.csproj", "{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2B5EC4AE-DE1D-4B2A-874D-D874707F3812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B5EC4AE-DE1D-4B2A-874D-D874707F3812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B5EC4AE-DE1D-4B2A-874D-D874707F3812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
