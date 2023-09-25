@@ -1,0 +1,14 @@
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\bin\Debug\net6.0\LocalMin.exe
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\bin\Debug\net6.0\LocalMin.deps.json
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\bin\Debug\net6.0\LocalMin.runtimeconfig.json
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\bin\Debug\net6.0\LocalMin.dll
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\bin\Debug\net6.0\LocalMin.pdb
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\LocalMin.GeneratedMSBuildEditorConfig.editorconfig
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\LocalMin.AssemblyInfoInputs.cache
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\LocalMin.AssemblyInfo.cs
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\LocalMin.csproj.CoreCompileInputs.cache
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\LocalMin.dll
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\refint\LocalMin.dll
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\LocalMin.pdb
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\LocalMin.genruntimeconfig.cache
+F:\universityLearn\algorithmLearn\leftClass\LocalMin\obj\Debug\net6.0\ref\LocalMin.dll

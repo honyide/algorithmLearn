@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomAtoB", "..\RandomAtoB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomMachine", "..\RandomMachine\RandomMachine.csproj", "{2B5EC4AE-DE1D-4B2A-874D-D874707F3812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfSearch", "..\HalfSearch\HalfSearch.csproj", "{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HalfSearch", "..\HalfSearch\HalfSearch.csproj", "{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalMin", "..\LocalMin\LocalMin.csproj", "{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
