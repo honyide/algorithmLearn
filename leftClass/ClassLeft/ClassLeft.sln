@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomMachine", "..\RandomM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HalfSearch", "..\HalfSearch\HalfSearch.csproj", "{2C04B1F1-20A2-4BB0-AF41-DB5054A5FFF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalMin", "..\LocalMin\LocalMin.csproj", "{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalMin", "..\LocalMin\LocalMin.csproj", "{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinked", "..\ReverseLinked\ReverseLinked.csproj", "{D066C15A-A62E-4DB1-B0E8-F850A637EA7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02CFE68F-CBBF-4FB7-BC28-BBC417BFFA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D066C15A-A62E-4DB1-B0E8-F850A637EA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D066C15A-A62E-4DB1-B0E8-F850A637EA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D066C15A-A62E-4DB1-B0E8-F850A637EA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D066C15A-A62E-4DB1-B0E8-F850A637EA7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
